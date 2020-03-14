@@ -1,0 +1,2 @@
+I will be deconstructing and rebuilding a website. I will use my skills in the terminal, Github, VS Code, as well as HTML, CSS, and de-bugging.
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
